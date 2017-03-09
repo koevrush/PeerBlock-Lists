@@ -1,3 +1,6 @@
+# Project Closed.
+Shut down the project because it does not make sense. Take who want. Will provide the original logs for processing ip of botnet.
+
 # Об этом проекте
 Собираю собственные Списки (Lists) для программы PeerBlock на основе логов своего сервера. После атак/флуда на мой сервер.
 Списки имеют рабочее название (категорию) BOTNET. Все адреса заносятся после факта появления в логах FTP, DNS, WEB и других служб по причине атаки, флуда или брутфорса. Соответственно списки будут под следующими наименованиями:
